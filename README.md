@@ -18,7 +18,8 @@ Display ToDo task details
 Edit or Update ToDo list
 Improved UI
 
-Technology :-
+#Technology :-
+
 1.Java Jdk 20
 2.Apache Tomcat 9.0
 3.MySQL 8.0
