@@ -1,9 +1,5 @@
 #To Do List App
 
-Name - Guthale Shubham Vishnu
-Roll No. - 22111072
-
-
 The To-Do List App is a simple Java application that allows users to create and manage,Delete,Update their to-do lists.
 
 #Features:-
