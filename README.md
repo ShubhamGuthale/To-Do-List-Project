@@ -4,11 +4,11 @@
 
 
 ## Following features :-
-- Add todo
-- Edit todo
+- Add Todo
+- Edit Todo
 - List Todo
 - Delete Todo
-- Update TODo
+- Update Todo
 - Task Status
 
 
