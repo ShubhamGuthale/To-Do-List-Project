@@ -1,5 +1,5 @@
 
-**# To Do List Application** 
+# To Do List Application 
  Todo application developed using JSP, Servlet, JDBC and MySQL Database.
 
 
