@@ -22,7 +22,7 @@
 - Eclipse IDE
 
 
-## Here are some sanpshots.
+## Here are some snapshots.
 - Home
 
 
