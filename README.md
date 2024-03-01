@@ -4,7 +4,7 @@
 
 
 
-## Following features :-
+## Following features 
 - Add Todo
 - Edit Todo
 - List Todo
@@ -13,7 +13,7 @@
 - Task Status
 
 
-## Technology :-
+## Technology 
 - Java JDK 20
 - Apache Tomcat server 9.0
 - JSP and Servlet
