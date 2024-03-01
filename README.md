@@ -13,7 +13,7 @@
 
 
 ## Technology :-
-- Java 8+
+- Java JDK 20
 - Apache Tomcat server 9.0
 - JSP and Servlet
 - JDBC
@@ -21,5 +21,11 @@
 - Eclipse IDE
 
 
-
-
+## Here are some sanpshots.
+- Java JDK 20
+- Apache Tomcat server 9.0
+- JSP and Servlet
+- JDBC
+- MySQL database
+- Eclipse IDE
+  
