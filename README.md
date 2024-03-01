@@ -1,7 +1,6 @@
 
-# To Do List Application
--Todo application developed using JSP, Servlet, JDBC and MySQL Database.
--The To-Do List App is a simple Java application that allows users to create and manage,Delete,Update their to-do lists.
+**# To Do List Application** 
+ Todo application developed using JSP, Servlet, JDBC and MySQL Database.
 
 
 ## Following features :-
