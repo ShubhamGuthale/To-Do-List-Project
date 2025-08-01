@@ -4,20 +4,20 @@ A web-based To-Do List Application built using **JSP**, **Servlets**, **JDBC**, 
 
 
 ## Following features 
-- Add Todo
-- Edit Todo
-- List Todo
-- Delete Todo
-- Update Todo
-- Task Status
+- Add Todo Items
+- Edit Existing Tasks
+- View All Tasks (List)
+- Delete Tasks
+- Update Task Status (Pending/Completed)
+- Task Dashboard for quick status overview
 
 
 ## Technology 
 - Java JDK 20
 - Apache Tomcat server 9.0
-- JSP and Servlet
-- JDBC
-- MySQL database
+- JSP and Servlet (MVC architecture)
+- JDBC for database connectivity
+- MySQL for persistent storage
 - Eclipse IDE
 
 
