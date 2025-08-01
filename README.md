@@ -1,6 +1,5 @@
-
-# To Do List Application 
- Todo application developed using JSP, Servlet, JDBC and MySQL Database.
+# Task Tracker – To-Do List Management Application 
+A web-based To-Do List Application built using **JSP**, **Servlets**, **JDBC**, and **MySQL**, designed to help users efficiently manage their daily tasks with full CRUD functionality and real-time status tracking.
 
 
 
