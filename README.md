@@ -23,8 +23,9 @@
 | IDE          | Eclipse IDE              |
 
 
-## Here are some snapshots.
-- Home
+## 📷 Screenshots
+
+### 🏠 Home Page – View All Tasks
 
 
 <img width="960" alt="Screenshot 2023-11-29 115028" src="https://github.com/ShubhamGuthale/To-Do-List-Project/assets/150772720/60261cbb-db07-41d2-b5b8-acfdc27152b8">
