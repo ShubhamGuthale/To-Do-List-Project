@@ -1,9 +1,9 @@
 # Task Tracker – To-Do List Management Application 
-A web-based To-Do List Application built using **JSP**, **Servlets**, **JDBC**, and **MySQL**, designed to help users efficiently manage their daily tasks with full CRUD functionality and real-time status tracking.
+
+**Task Tracker** is a lightweight, web-based To-Do List Management Application developed using **Java Servlets**, **JSP**, **JDBC**, and **MySQL**. The application is designed to help users create, view, update, and manage their daily tasks efficiently. Built following the **MVC architecture**, it offers real-time task status tracking and a clean, intuitive user interface.
 
 
-
-## Following features 
+## Features 
 - Add Todo Items
 - Edit Existing Tasks
 - View All Tasks (List)
