@@ -9,16 +9,18 @@ A web-based To-Do List Application built using **JSP**, **Servlets**, **JDBC**, 
 - View All Tasks (List)
 - Delete Tasks
 - Update Task Status (Pending/Completed)
-- Task Dashboard for quick status overview
+- Status Dashboard for quick status overview
 
 
-## Technology 
-- Java JDK 20
-- Apache Tomcat server 9.0
-- JSP and Servlet (MVC architecture)
-- JDBC for database connectivity
-- MySQL for persistent storage
-- Eclipse IDE
+## Technology Stack
+| Layer        | Technology               |
+|--------------|--------------------------|
+| Frontend     | JSP (JavaServer Pages)   |
+| Backend      | Java Servlets (JDK 20)   |
+| Database     | MySQL (JDBC for ORM)     |
+| Architecture | MVC                      |
+| Server       | Apache Tomcat 9.0        |
+| IDE          | Eclipse IDE              |
 
 
 ## Here are some snapshots.
